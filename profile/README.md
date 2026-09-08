@@ -1,4 +1,6 @@
-## Hi there 👋
+# GECHLAB github page
+
+Welcome to the github repository of the Geophysics for the Environment and the Cultural Heritage lab (GECHLAB) of the Earth Sciences Department of the University of Milan!
 
 <!--
 
